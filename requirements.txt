@@ -1,0 +1,15 @@
+# Python 3.10 + venv310 联调环境核心依赖
+# 系统工具：ffmpeg（TTS 转 PCM）
+
+av==17.0.1
+ctranslate2==4.7.1
+edge-tts==7.2.8
+faster-whisper==1.2.1
+httpx==0.28.1
+numpy==2.2.6
+openai==2.36.0
+opencv-python==4.13.0.92
+pillow==12.2.0
+requests==2.34.2
+torch==2.12.1
+transformers==5.12.1

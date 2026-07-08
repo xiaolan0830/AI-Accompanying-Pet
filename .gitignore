@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv310/
+venv/
+.venv/
+
+# Runtime / generated audio
+received_audio.wav
+reply.mp3
+reply.pcm
+
+# IDE / temp
+tempCodeRunnerFile.python
+.DS_Store
+.idea/
+*.swp
+
+# Secrets
+.env
+
+# Old backup
+requirements_old.txt.bak
